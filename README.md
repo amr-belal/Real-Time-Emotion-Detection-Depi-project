@@ -19,10 +19,10 @@ This project implements a real-time emotion detection system that captures live 
 - The system will detect faces in the video stream and display the predicted emotions on-screen.
 - Stop the webcam feed when done by unchecking the control button.
 ### Project Structure
-> Main Application File: Contains the code to run the Streamlit web app and handle the emotion detection logic.
-> Pre-trained Model Files: The deep learning model used for emotion classification, including the model architecture and its weights.
-> Requirements File: Lists all the external libraries and dependencies required to run the application.
-> Documentation: This README.md file to guide users on how to install and use the project.
+- Main Application File: Contains the code to run the Streamlit web app and handle the emotion detection logic.
+- Pre-trained Model Files: The deep learning model used for emotion classification, including the model architecture and its weights.
+- Requirements File: Lists all the external libraries and dependencies required to run the application.
+- Documentation: This README.md file to guide users on how to install and use the project.
 
 ### Emotion Categories
 The application classifies the following emotions:
